@@ -6,7 +6,7 @@ Versions:
 estimation.
 2. GNSS-SDRLIB-PVT_BLS_052425. Released 5/25/25. Several modifications that significantly
 improve robustness. SDL2 has been replaced by Ncurses for GUI. The SV channels now reset
-Themselves by zeroing out structs and flags, rather than closes and restarting each
+themselves by zeroing out structs and flags, rather than closing and restarting each
 channel (thread).
 
 Purpose. This is a significantly-modifed version of GNSS-SDRLIB. Instead of requiring a 
