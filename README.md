@@ -16,13 +16,12 @@ Limitations. This is a highly stripped-down version of GNSS-SDRLIB, in an attemp
 create a more truly real-time and robust GPS SDR. This version is GPS L1 only, Linux only 
 (not Windows), and only currently works with RTLSDR or bladeRF front ends.
 
-Videos. The following three videos are available on Youtube:
-
-Part 1. Overview of Features and Modifications. Link: https://youtu.be/VLlu77O3vec
-
-Part 2. Hardware Used, and Software Builds. Link: https://youtu.be/R3IFhFoblQU 
-
-Part 3. Demo of Playback and Real-Time Modes. Link: https://youtu.be/8pV1hX6IkFk 
+Videos. The following videos are available on Youtube:
+- Overview of Version 052425: https://www.youtube.com/watch?v=-zpYcuX1XJM
+- Three part series on GNSS-SDRLIB-PVT:
+-- Part 1. Overview of Features and Modifications. Link: https://youtu.be/VLlu77O3v
+-- Part 2. Hardware Used, and Software Builds. Link: https://youtu.be/R3IFhFoblQU 
+-- Part 3. Demo of Playback and Real-Time Modes. Link: https://youtu.be/8pV1hX6IkFk 
 
 Acknowledgements. This software is a modified version of the original 2014 GNSS-SDRLIB 
 code (https://github.com/taroz/GNSS-SDRLIB). Please refer to the videos listed above for 
